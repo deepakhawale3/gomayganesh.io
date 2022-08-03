@@ -1,6 +1,5 @@
 # ganpati1
-Uma Gomay Ganesh Art
+Uma Gomay Ganesh Art 
+Version 2
 Visit here
-  https://rishikesh-karanjkar.github.io/ganpati1/
-  OR
-  http://umagomayganeshart.in/
+
